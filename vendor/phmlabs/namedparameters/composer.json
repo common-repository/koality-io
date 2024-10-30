@@ -1,0 +1,11 @@
+{
+    "name": "phmlabs/namedparameters",
+    "type": "library",
+    "description": "phmLabs library for named parameters",
+    "keywords": [],
+    "homepage": "https://www.thewebhatesme.com",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": { "PhmLabs\\Components\\NamedParameters\\": "" }
+    }
+}
